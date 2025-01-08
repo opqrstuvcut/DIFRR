@@ -1,0 +1,9 @@
+[package]
+name = "DIFRR"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.25.5"
+ndarray = "0.16.1"
+onnxruntime = "0.0.14"
